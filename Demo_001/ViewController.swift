@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         var master=6
         
         var m1
+        var t2
     }
 
     override func didReceiveMemoryWarning() {
