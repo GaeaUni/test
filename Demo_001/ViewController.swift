@@ -14,20 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        var a = 1
-        var b = 2
-        var c=3
-        var d=4
-        var e=5
-        var test=6
-        var master=6
         
-        var m1
-        var t1
-<<<<<<< HEAD
-        var t2
-=======
->>>>>>> test
     }
 
     override func didReceiveMemoryWarning() {
